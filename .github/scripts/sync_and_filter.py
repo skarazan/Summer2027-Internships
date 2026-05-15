@@ -68,7 +68,7 @@ if changes:
         locs = ", ".join(e.get("locations", []))
         url = e.get("url", "")
         lines.append(f"🔓 **{e['company_name']}** — {e['title']} (reopened)\n📍 {locs}\n🔗 {url}")
-    message = "\n\n".join(lines)
+    message = "@everyone\n\n" + "\n\n".join(lines)
     with open(os.environ.get("GITHUB_OUTPUT", "/dev/null"), "a") as f:
         f.write("has_changes=true\n")
     with open(".github/scripts/discord_message.txt", "w") as f:
