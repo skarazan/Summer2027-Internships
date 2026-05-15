@@ -1,0 +1,50 @@
+name: Sync upstream and notify
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # every hour
+  workflow_dispatch: # manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: dev
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Sync and filter
+        id: sync
+        run: python3 .github/scripts/sync_and_filter.py
+
+      - name: Regenerate README
+        if: steps.sync.outputs.has_changes == 'true'
+        run: python3 .github/scripts/update_readmes.py
+
+      - name: Commit and push
+        if: steps.sync.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/scripts/listings.json OFFSEASON_README.md README.md
+          git commit -m "Sync upstream: new/updated listings"
+          git push
+
+      - name: Notify Discord
+        if: steps.sync.outputs.has_changes == 'true'
+        run: |
+          MESSAGE=$(cat .github/scripts/discord_message.txt)
+          # Truncate to Discord's 2000 char limit
+          if [ ${#MESSAGE} -gt 1990 ]; then
+            MESSAGE="${MESSAGE:0:1990}..."
+          fi
+          jq -n --arg content "$MESSAGE" '{"content": $content}' | \
+            curl -s -H "Content-Type: application/json" \
+              -d @- \
+              "${{ secrets.DISCORD_WEBHOOK_URL }}"
