@@ -2,6 +2,8 @@
 
 Filtered from [vanshb03/Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships). Showing only **Fall & Winter** internships located in **New York City** or **Remote**.
 
+[![Discord](https://img.shields.io/badge/Live_Demo-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/GfSRFugKd)
+
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
 
