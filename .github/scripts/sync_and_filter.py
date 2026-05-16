@@ -59,15 +59,15 @@ if changes:
     for e in added:
         locs = ", ".join(e.get("locations", []))
         url = e.get("url", "")
-        lines.append(f"🆕 **{e['company_name']}** — {e['title']}\n📍 {locs}\n🔗 {url}")
+        lines.append(f"🆕 **{e['company_name']}** — {e['title']}\n📍 {locs}\n🔗 <{url}>")
     for e in updated:
         locs = ", ".join(e.get("locations", []))
         url = e.get("url", "")
-        lines.append(f"✏️ **{e['company_name']}** — {e['title']}\n📍 {locs}\n🔗 {url}")
+        lines.append(f"✏️ **{e['company_name']}** — {e['title']}\n📍 {locs}\n🔗 <{url}>")
     for e in reactivated:
         locs = ", ".join(e.get("locations", []))
         url = e.get("url", "")
-        lines.append(f"🔓 **{e['company_name']}** — {e['title']} (reopened)\n📍 {locs}\n🔗 {url}")
+        lines.append(f"🔓 **{e['company_name']}** — {e['title']} (reopened)\n📍 {locs}\n🔗 <{url}>")
     message = "@everyone\n\n" + "\n\n".join(lines)
     with open(os.environ.get("GITHUB_OUTPUT", "/dev/null"), "a") as f:
         f.write("has_changes=true\n")
