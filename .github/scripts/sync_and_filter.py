@@ -1,9 +1,30 @@
 import json
 import os
+import hashlib
 import urllib.request
 
 UPSTREAM_URL = "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json"
 LISTINGS_PATH = ".github/scripts/listings.json"
+NOTIFIED_PATH = ".github/scripts/notified_hashes.json"
+
+SIBLING_HASH_URLS = [
+    "https://raw.githubusercontent.com/skarazan/Summer2026-Internships-NYC/dev/.github/scripts/notified_hashes.json",
+    "https://raw.githubusercontent.com/skarazan/Internships-2026/main/.github/data/notified_hashes.json",
+]
+
+def job_hash(entry):
+    key = f"{entry.get('company_name','').lower().strip()}|{entry.get('title','').lower().strip()}"
+    return hashlib.md5(key.encode()).hexdigest()[:12]
+
+def fetch_sibling_hashes():
+    hashes = set()
+    for url in SIBLING_HASH_URLS:
+        try:
+            with urllib.request.urlopen(url, timeout=5) as resp:
+                hashes.update(json.loads(resp.read()))
+        except Exception:
+            pass
+    return hashes
 
 def matches_location(locations):
     for loc in locations:
@@ -53,8 +74,23 @@ with open(LISTINGS_PATH, 'w') as f:
 print(f"Upstream: {len(upstream)} -> Filtered: {len(new_filtered)} (was {len(old_filtered)})")
 print(f"New: {len(added)}, Updated: {len(updated)}, Reactivated: {len(reactivated)}")
 
+notified = set()
+if os.path.exists(NOTIFIED_PATH):
+    with open(NOTIFIED_PATH) as f:
+        notified = set(json.load(f))
+sibling_hashes = fetch_sibling_hashes()
+all_known = notified | sibling_hashes
+
+added = [e for e in added if job_hash(e) not in all_known]
+updated = [e for e in updated if job_hash(e) not in all_known]
+reactivated = [e for e in reactivated if job_hash(e) not in all_known]
+
 changes = added + updated + reactivated
 if changes:
+    for e in changes:
+        notified.add(job_hash(e))
+    with open(NOTIFIED_PATH, "w") as f:
+        json.dump(sorted(notified), f)
     lines = []
     for e in added:
         locs = ", ".join(e.get("locations", []))
