@@ -11,7 +11,9 @@ def matches_location(locations):
         l = loc.lower()
         if any(kw in l for kw in ('uk', 'united kingdom', 'london', 'england', 'scotland')):
             continue
-        if any(kw in l for kw in ('new york', 'nyc', 'manhattan', 'brooklyn')):
+        if any(kw in l for kw in ('new york', 'nyc', 'brooklyn')):
+            has_nyc = True
+        if 'manhattan' in l and 'beach' not in l:
             has_nyc = True
         if 'remote' in l:
             if any(kw in l for kw in ('uk', 'canada', 'united kingdom', 'london', 'india', 'europe')):

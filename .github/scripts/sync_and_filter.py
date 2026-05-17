@@ -40,7 +40,9 @@ def matches_location(locations):
         if any(kw in l for kw in ('uk', 'united kingdom', 'london', 'england', 'scotland')):
             continue
         # NYC in-person/hybrid
-        if any(kw in l for kw in ('new york', 'nyc', 'manhattan', 'brooklyn')):
+        if any(kw in l for kw in ('new york', 'nyc', 'brooklyn')):
+            has_nyc = True
+        if 'manhattan' in l and 'beach' not in l:
             has_nyc = True
         # Remote USA only (not "Remote in UK", "Remote, Canada", etc.)
         if 'remote' in l:
