@@ -108,19 +108,20 @@ if changes:
         notified.add(job_hash(e))
     with open(NOTIFIED_PATH, "w") as f:
         json.dump(sorted(notified), f)
+    MAX_SHOW = 5
     lines = []
-    for e in added:
+    all_changes = added[:MAX_SHOW]
+    for e in all_changes:
         locs = ", ".join(e.get("locations", []))
         url = e.get("url", "")
         lines.append(f"🆕 **{e['company_name']}** — {e['title']}\n📍 {locs}\n🔗 <{url}>")
-    for e in updated:
-        locs = ", ".join(e.get("locations", []))
-        url = e.get("url", "")
-        lines.append(f"✏️ **{e['company_name']}** — {e['title']}\n📍 {locs}\n🔗 <{url}>")
-    for e in reactivated:
+    for e in reactivated[:max(0, MAX_SHOW - len(all_changes))]:
         locs = ", ".join(e.get("locations", []))
         url = e.get("url", "")
         lines.append(f"🔓 **{e['company_name']}** — {e['title']} (reopened)\n📍 {locs}\n🔗 <{url}>")
+    extra = len(added) + len(updated) + len(reactivated) - len(lines)
+    if extra > 0:
+        lines.append(f"...and **{extra} more** — check the README")
     message = "@everyone\n\n" + "\n\n".join(lines)
     with open(os.environ.get("GITHUB_OUTPUT", "/dev/null"), "a") as f:
         f.write("has_changes=true\n")
