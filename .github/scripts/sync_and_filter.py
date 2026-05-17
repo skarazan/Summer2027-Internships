@@ -26,19 +26,35 @@ def fetch_sibling_hashes():
             pass
     return hashes
 
+def is_phd(entry):
+    title = (entry.get('title') or '').lower()
+    return 'phd' in title or 'ph.d' in title
+
 def matches_location(locations):
+    has_nyc = False
+    has_remote_usa = False
     for loc in locations:
         l = loc.lower()
+        # Skip UK locations
+        if any(kw in l for kw in ('uk', 'united kingdom', 'london', 'england', 'scotland')):
+            continue
+        # NYC in-person/hybrid
         if any(kw in l for kw in ('new york', 'nyc', 'manhattan', 'brooklyn')):
-            return True
+            has_nyc = True
+        # Remote USA only (not "Remote in UK", "Remote, Canada", etc.)
         if 'remote' in l:
-            return True
-    return False
+            # reject if location explicitly mentions non-US
+            if any(kw in l for kw in ('uk', 'canada', 'united kingdom', 'london', 'india', 'europe')):
+                continue
+            # accept "Remote", "Remote US", "Remote USA", "Remote in USA", or bare remote
+            has_remote_usa = True
+    return has_nyc or has_remote_usa
 
 def filter_listings(listings):
     return [
         e for e in listings
         if e.get('season') in ('Fall', 'Winter')
+        and not is_phd(e)
         and matches_location(e.get('locations', []))
     ]
 
