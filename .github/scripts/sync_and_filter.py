@@ -11,6 +11,7 @@ SIBLING_HASH_URLS = [
     "https://raw.githubusercontent.com/skarazan/Summer2026-Internships-NYC/dev/.github/scripts/notified_hashes.json",
     "https://raw.githubusercontent.com/skarazan/Internships-2026/main/.github/data/notified_hashes.json",
     "https://raw.githubusercontent.com/skarazan/southeast-tech-internships-2026-2027/main/.github/data/notified_hashes.json",
+    "https://raw.githubusercontent.com/skarazan/jsearch-internship-scanner/main/.github/data/notified_hashes.json",
 ]
 
 def job_hash(entry):
