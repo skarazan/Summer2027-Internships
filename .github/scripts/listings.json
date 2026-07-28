@@ -328,13 +328,13 @@
     "season": "Fall"
   },
   {
-    "date_updated": 1784882287,
+    "date_updated": 1785161399,
     "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
     "locations": [
       "New York, NY"
     ],
     "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
+    "active": false,
     "company_name": "Palantir Technologies",
     "title": "Forward Deployed Infrastructure Engineer Intern",
     "source": "vanshb03",
@@ -391,6 +391,40 @@
     "source": "vanshb03",
     "id": "75f28f5a-4ac9-4bab-894f-4175ba430e77",
     "date_posted": 1784882350,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall"
+  },
+  {
+    "date_updated": 1785124669,
+    "url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96",
+    "locations": [
+      "New York City, NY"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "Anthelion Capital",
+    "title": "Quant Developer / Quant Research Intern",
+    "source": "vanshb03",
+    "id": "f1171acb-b43c-460e-bbdf-ae21af04f68c",
+    "date_posted": 1785124669,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall"
+  },
+  {
+    "date_updated": 1785253445,
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Gemini",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "de488a63-ee49-4845-99a6-bf997c394b0d",
+    "date_posted": 1785253445,
     "company_url": "",
     "is_visible": true,
     "season": "Fall"
