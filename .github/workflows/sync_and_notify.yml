@@ -2,8 +2,15 @@ name: Sync upstream and notify
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # every 5 minutes
+    # Safety net only. GitHub throttles high-frequency crons on shared runners,
+    # so */5 here was really delivering every 45-60 min. Fast cadence comes from
+    # an external scheduler calling the workflow_dispatch API.
+    - cron: '*/30 * * * *'
   workflow_dispatch: # manual trigger
+
+concurrency:
+  group: sync-notify
+  cancel-in-progress: false
 
 jobs:
   sync:
@@ -27,6 +34,21 @@ jobs:
         if: steps.sync.outputs.has_changes == 'true'
         run: python3 .github/scripts/update_readmes.py
 
+      # Runs before the commit: if Discord is down, the notified hashes are not
+      # persisted, so the listings are retried on the next run instead of being
+      # silently marked as sent.
+      - name: Notify Discord
+        if: steps.sync.outputs.has_changes == 'true'
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          jq -c '.[]' .github/scripts/discord_chunks.json | while read -r chunk; do
+            jq -n --argjson content "$chunk" '{"content": $content}' | \
+              curl -sS --fail-with-body -H "Content-Type: application/json" \
+                -d @- "$DISCORD_WEBHOOK_URL"
+            sleep 1
+          done
+
       - name: Commit and push
         if: steps.sync.outputs.has_changes == 'true'
         run: |
@@ -35,16 +57,3 @@ jobs:
           git add .github/scripts/listings.json .github/scripts/notified_hashes.json OFFSEASON_README.md README.md
           git commit -m "Sync upstream: new/updated listings"
           git push
-
-      - name: Notify Discord
-        if: steps.sync.outputs.has_changes == 'true'
-        run: |
-          MESSAGE=$(cat .github/scripts/discord_message.txt)
-          # Truncate to Discord's 2000 char limit
-          if [ ${#MESSAGE} -gt 1990 ]; then
-            MESSAGE="${MESSAGE:0:1990}..."
-          fi
-          jq -n --arg content "$MESSAGE" '{"content": $content}' | \
-            curl -s -H "Content-Type: application/json" \
-              -d @- \
-              "${{ secrets.DISCORD_WEBHOOK_URL }}"

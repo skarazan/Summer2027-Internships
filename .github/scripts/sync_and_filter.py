@@ -14,6 +14,23 @@ SIBLING_HASH_URLS = [
     "https://raw.githubusercontent.com/skarazan/jsearch-internship-scanner/main/.github/data/notified_hashes.json",
 ]
 
+def build_chunks(lines, header="@everyone", limit=1900):
+    """Pack listing blocks into Discord-sized messages without splitting a listing."""
+    chunks = []
+    current = header
+    for line in lines:
+        block = line if len(line) <= limit else line[:limit - 1] + "…"
+        candidate = f"{current}\n\n{block}" if current else block
+        if len(candidate) > limit:
+            chunks.append(current)
+            current = block
+        else:
+            current = candidate
+    if current:
+        chunks.append(current)
+    return chunks
+
+
 def job_hash(entry):
     key = f"{entry.get('company_name','').lower().strip()}|{entry.get('title','').lower().strip()}"
     return hashlib.md5(key.encode()).hexdigest()[:12]
@@ -111,25 +128,21 @@ if changes:
         notified.add(job_hash(e))
     with open(NOTIFIED_PATH, "w") as f:
         json.dump(sorted(notified), f)
-    MAX_SHOW = 5
     lines = []
-    all_changes = added[:MAX_SHOW]
-    for e in all_changes:
+    for e in added:
         locs = ", ".join(e.get("locations", []))
         url = e.get("url", "")
         lines.append(f"🆕 **{e['company_name']}** — {e['title']}\n📍 {locs}\n🔗 <{url}>")
-    for e in reactivated[:max(0, MAX_SHOW - len(all_changes))]:
+    for e in reactivated:
         locs = ", ".join(e.get("locations", []))
         url = e.get("url", "")
         lines.append(f"🔓 **{e['company_name']}** — {e['title']} (reopened)\n📍 {locs}\n🔗 <{url}>")
-    extra = len(added) + len(updated) + len(reactivated) - len(lines)
-    if extra > 0:
-        lines.append(f"...and **{extra} more** — check the README")
-    message = "@everyone\n\n" + "\n\n".join(lines)
+    chunks = build_chunks(lines)
+    print(f"Posting {len(lines)} listings across {len(chunks)} Discord message(s)")
     with open(os.environ.get("GITHUB_OUTPUT", "/dev/null"), "a") as f:
         f.write("has_changes=true\n")
-    with open(".github/scripts/discord_message.txt", "w") as f:
-        f.write(message)
+    with open(".github/scripts/discord_chunks.json", "w") as f:
+        json.dump(chunks, f)
 else:
     with open(os.environ.get("GITHUB_OUTPUT", "/dev/null"), "a") as f:
         f.write("has_changes=false\n")
