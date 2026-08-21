@@ -413,13 +413,13 @@
     "season": "Fall"
   },
   {
-    "date_updated": 1785253445,
+    "date_updated": 1787326431,
     "url": "https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125",
     "locations": [
       "New York, NY"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "Gemini",
     "title": "Software Engineering Intern",
     "source": "vanshb03",
@@ -459,6 +459,128 @@
     "source": "vanshb03",
     "id": "12011286-0eca-4688-8c69-aa283024575d",
     "date_posted": 1786024349,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1787326585,
+    "url": "https://job-boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Point72",
+    "title": "Quantitative Developer Intern",
+    "source": "vanshb03",
+    "id": "3bef4cb3-3926-43b5-95db-dd069491f8ea",
+    "date_posted": 1787326585,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1787326771,
+    "url": "https://www.verition.com/open-positions?gh_jid=5214784007&gh_src=za15el4f7us&t=3253f722teu",
+    "locations": [
+      "Remote"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "Verition Fund Management LLC",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "835cac0f-ad17-450e-984c-ac7973199416",
+    "date_posted": 1787326771,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall"
+  },
+  {
+    "date_updated": 1787326904,
+    "url": "https://career.mlp.com/careers/job/755957778821",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Millennium",
+    "title": "Applied AI Engineer Intern",
+    "source": "vanshb03",
+    "id": "9d6bf754-a9b4-4175-a689-79099306456f",
+    "date_posted": 1787326904,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall"
+  },
+  {
+    "date_updated": 1787327688,
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
+    "locations": [
+      "Remote"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Campbell Soup Company",
+    "title": "Agentic AI Engineer Co-Op",
+    "source": "vanshb03",
+    "id": "40f1994b-331f-4836-b7e5-33e8197296d0",
+    "date_posted": 1787327688,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall"
+  },
+  {
+    "date_updated": 1787327701,
+    "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+    "locations": [
+      "Boston, MA",
+      "New York, NY"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "Datadog",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "9ed4ac46-4e59-4e9f-a06a-63a2fea39a34",
+    "date_posted": 1787327701,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1787327703,
+    "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "company_name": "Figma",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "ab806a40-3173-438c-b929-7cb4e21780ed",
+    "date_posted": 1787327703,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1787327736,
+    "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Figma",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "3cfb4048-a938-4850-b6b0-b3f227565a56",
+    "date_posted": 1787327736,
     "company_url": "",
     "is_visible": true,
     "season": "Winter"
