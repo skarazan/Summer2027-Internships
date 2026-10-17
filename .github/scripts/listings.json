@@ -464,13 +464,13 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1787326585,
+    "date_updated": 1792261172,
     "url": "https://job-boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
     "locations": [
       "New York, NY"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "Point72",
     "title": "Quantitative Developer Intern",
     "source": "vanshb03",
@@ -550,14 +550,14 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1787327703,
+    "date_updated": 1792261172,
     "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
     "locations": [
       "San Francisco, CA",
       "New York, NY"
     ],
     "sponsorship": "Offers Sponsorship",
-    "active": true,
+    "active": false,
     "company_name": "Figma",
     "title": "Software Engineer Intern",
     "source": "vanshb03",
@@ -568,19 +568,87 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1787327736,
+    "date_updated": 1792261172,
     "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
     "locations": [
       "San Francisco, CA",
       "New York, NY"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "Figma",
     "title": "Software Engineer Intern",
     "source": "vanshb03",
     "id": "3cfb4048-a938-4850-b6b0-b3f227565a56",
     "date_posted": 1787327736,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1792261427,
+    "url": "https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Point72",
+    "title": "Data Research Fellowship",
+    "source": "vanshb03",
+    "id": "3cca1211-ee6a-4823-8ef4-4553e44bbd39",
+    "date_posted": 1791788400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1792261427,
+    "url": "https://careers-sig.icims.com/jobs/11654/technology-co-op-with-drexel-university/job",
+    "locations": [
+      "Remote (US)"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Susquehanna International Group",
+    "title": "Technology Co-op",
+    "source": "vanshb03",
+    "id": "441958b4-9f06-4ecf-b0e0-493fdbcccb1b",
+    "date_posted": 1791961200,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1792261427,
+    "url": "https://careers-sig.icims.com/jobs/11675/business-analytics-ai-co-op-with-drexel-university/job",
+    "locations": [
+      "Remote (US)"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Susquehanna International Group",
+    "title": "Business Analytics AI Co-op",
+    "source": "vanshb03",
+    "id": "e7aae4d7-5574-46b6-beea-1de84a09f81d",
+    "date_posted": 1792047600,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1792261427,
+    "url": "https://careers-sig.icims.com/jobs/11665/technical-business-analyst-co-op-with-drexel-university/job",
+    "locations": [
+      "Remote (US)"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Susquehanna International Group",
+    "title": "Technical Business Analyst Co-op",
+    "source": "vanshb03",
+    "id": "df63aec0-daa5-4c3d-85e7-d5e42d811a26",
+    "date_posted": 1792047600,
     "company_url": "",
     "is_visible": true,
     "season": "Winter"
