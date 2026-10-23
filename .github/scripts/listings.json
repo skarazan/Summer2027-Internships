@@ -737,5 +737,119 @@
     "company_url": "",
     "is_visible": true,
     "season": "Winter"
+  },
+  {
+    "date_updated": 1792717232,
+    "url": "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1/application",
+    "locations": [
+      "Remote",
+      "United States",
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Developer Intern, Data Security",
+    "source": "vanshb03",
+    "id": "bc696b54-8892-447d-b724-18edd9f282af",
+    "date_posted": 1792652400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1792717232,
+    "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application",
+    "locations": [
+      "Remote",
+      "United States",
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Developer Intern, Machine Identity",
+    "source": "vanshb03",
+    "id": "96010429-8dbd-4223-9685-7e5585b0f4aa",
+    "date_posted": 1792652400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1792717232,
+    "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application",
+    "locations": [
+      "Remote",
+      "United States",
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Developer Intern, Vault Team",
+    "source": "vanshb03",
+    "id": "915a1eac-84e4-4bb5-94d5-c86926ca35c7",
+    "date_posted": 1792652400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1792775105,
+    "url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003",
+    "locations": [
+      "Remote",
+      "United States",
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Product Management Intern, End User Experience",
+    "source": "vanshb03",
+    "id": "44adbbae-615a-42c9-a391-ddd919090040",
+    "date_posted": 1792764305,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1792775105,
+    "url": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39",
+    "locations": [
+      "Remote",
+      "United States",
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Developer Intern, Developer Interfaces",
+    "source": "vanshb03",
+    "id": "5402095c-168c-4f29-8ce2-fe299e2632e3",
+    "date_posted": 1792764305,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1792775105,
+    "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba",
+    "locations": [
+      "Remote",
+      "United States",
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "1Password",
+    "title": "Developer Intern, Credential Brokering",
+    "source": "vanshb03",
+    "id": "480af310-c6bf-41ad-adf1-f1725c0986d2",
+    "date_posted": 1792764305,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
   }
 ]
