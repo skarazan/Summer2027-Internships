@@ -654,13 +654,13 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1792697714,
+    "date_updated": 1793254057,
     "url": "https://go.vansh.nyc/ez",
     "locations": [
       "Remote in USA"
     ],
     "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
+    "active": false,
     "company_name": "RTX",
     "title": "Software Engineer Co-op",
     "source": "vanshb03",
@@ -853,13 +853,13 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1792812208,
+    "date_updated": 1793297329,
     "url": "https://go.vansh.nyc/hd",
     "locations": [
       "New York, NY"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "Ivalua",
     "title": "Marketing Web Developer Intern",
     "source": "vanshb03",
@@ -906,7 +906,7 @@
     "is_visible": true
   },
   {
-    "date_updated": 1793013503,
+    "date_updated": 1793040072,
     "url": "https://go.vansh.nyc/CH",
     "locations": [
       "San Jose, CA",
@@ -915,7 +915,7 @@
       "New York, NY"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "Tessera Labs",
     "title": "Full Stack Software Engineer Intern",
     "source": "vanshb03",
@@ -997,5 +997,22 @@
     "company_url": "",
     "is_visible": true,
     "season": "Fall"
+  },
+  {
+    "date_updated": 1793315160,
+    "url": "https://go.vansh.nyc/108",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Genius AI",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "aa6a99b7-7eba-4da8-a33d-c6c7d761b386",
+    "date_posted": 1793232000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
   }
 ]
