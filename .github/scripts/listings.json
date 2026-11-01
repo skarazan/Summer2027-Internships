@@ -926,7 +926,7 @@
     "season": "Fall"
   },
   {
-    "date_updated": 1793013555,
+    "date_updated": 1793434363,
     "url": "https://go.vansh.nyc/CR",
     "locations": [
       "Aurora, CO",
@@ -934,7 +934,7 @@
       "United States"
     ],
     "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
+    "active": false,
     "company_name": "RTX",
     "title": "Software Platform Engineer Co-op",
     "source": "vanshb03",
@@ -1011,6 +1011,24 @@
     "source": "vanshb03",
     "id": "aa6a99b7-7eba-4da8-a33d-c6c7d761b386",
     "date_posted": 1793232000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1793491587,
+    "url": "https://go.vansh.nyc/13K",
+    "locations": [
+      "Remote",
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Solink",
+    "title": "Software Engineer Co-op, Agents",
+    "source": "vanshb03",
+    "id": "f490a7fc-6878-4911-aa6b-7ab4e227c5f2",
+    "date_posted": 1793404800,
     "company_url": "",
     "is_visible": true,
     "season": "Winter"

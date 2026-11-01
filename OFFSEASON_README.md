@@ -45,8 +45,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Solink | Software Engineer Co-op, Agents | Remote</br>Canada | <a href="https://go.vansh.nyc/13K?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Genius AI | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/108?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
-| RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | <a href="https://go.vansh.nyc/CR?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Notion | Software Engineer Intern, Mobile | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/BF?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/BE?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | 1Password | Product Management Intern, End User Experience | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/gR?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
@@ -77,6 +77,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | PathAI | Machine Learning Intern, AI Product and ML Core | Boston, MA</br>New York, NY</br>Remote | <a href="https://go.vansh.nyc/1A?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Tesla | Automation Development & Tooling Engineer Intern | Brooklyn Park, MN</br>Elgin, IL</br>Grand Rapids, MI | <a href="https://go.vansh.nyc/o?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
+| RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | 🔒 | Oct 26 |
 | RTX | Software Engineer Co-op 🇺🇸 | Remote in USA | 🔒 | Oct 22 |
 | Ivalua | Marketing Web Developer Intern | New York, NY | 🔒 | Oct 22 |
 | Tessera Labs | Full Stack Software Engineer Intern | <details><summary>**4 locations**</summary>San Jose, CA</br>Remote</br>United States</br>New York, NY</details> | 🔒 | Oct 14 |
