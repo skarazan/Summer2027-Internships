@@ -45,20 +45,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| GE Aerospace | Artificial Intelligence Intern | Remote</br>United States | <a href="https://go.vansh.nyc/19l?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | Solink | Software Engineer Co-op, Agents | Remote</br>Canada | <a href="https://go.vansh.nyc/13K?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Genius AI | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/108?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Notion | Software Engineer Intern, Mobile | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/BF?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/BE?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | 1Password | Product Management Intern, End User Experience | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/gR?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| ↳ | Developer Intern, Developer Interfaces | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/gS?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| ↳ | Developer Intern, Credential Brokering | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/gT?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| 1Password | Developer Intern, Data Security | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/eY?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | Developer Intern, Machine Identity | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/eZ?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | Developer Intern, Vault Team | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/f0?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | Developer Intern, Front-End Platform | Remote in USA | <a href="https://go.vansh.nyc/eA?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | Developer Intern, Extension Excellence | Remote in USA | <a href="https://go.vansh.nyc/eC?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | Developer Intern, Provisioning | Remote in USA | <a href="https://go.vansh.nyc/eH?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | Security Intern, Threat Operations | Remote in USA | <a href="https://go.vansh.nyc/eI?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| 1Password | Security Intern, Threat Operations | Remote in USA | <a href="https://go.vansh.nyc/eI?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Manhattan Associates | A.I. Developer Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/CZ?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Susquehanna International Group | Business Analytics AI Co-op | Remote (US) | <a href="https://go.vansh.nyc/a5?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | ↳ | Technical Business Analyst Co-op | Remote (US) | <a href="https://go.vansh.nyc/a6?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
@@ -66,7 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Point72 | Data Research Fellowship | New York, NY | <a href="https://go.vansh.nyc/8m?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | Judi Health | Data Engineer Intern | New York, NY</br>Denver, CO | <a href="https://go.vansh.nyc/Fw?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Risepoint | Analytics Engineering Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/DV?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
-| Google | Student Researcher Intern | <details><summary>**25 locations**</summary>Mountain View, CA</br>Ann Arbor, MI</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Chicago, IL</br>Houston, TX</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Princeton, NJ</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Sunnyvale, CA</br>Washington, DC</details> | <a href="https://www.google.com/about/careers/applications/jobs/results/131518356678156998?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
+| Google | Student Researcher Intern | <details><summary>**25 locations**</summary>Mountain View, CA</br>Ann Arbor, MI</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Chicago, IL</br>Houston, TX</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Princeton, NJ</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Sunnyvale, CA</br>Washington, DC</details> | <a href="https://go.vansh.nyc/18X?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | Verition Fund Management LLC | Software Engineer Intern | Remote | <a href="https://go.vansh.nyc/7e?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | Millennium | Applied AI Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/7h?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | Campbell Soup Company | Agentic AI Engineer Co-Op | Remote | <a href="https://go.vansh.nyc/7J?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
@@ -79,8 +72,16 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Tesla | Automation Development & Tooling Engineer Intern | Brooklyn Park, MN</br>Elgin, IL</br>Grand Rapids, MI | <a href="https://go.vansh.nyc/o?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | 🔒 | Oct 26 |
+| 1Password | Developer Intern, Developer Interfaces | Remote</br>United States</br>Canada | 🔒 | Oct 23 |
+| ↳ | Developer Intern, Credential Brokering | Remote</br>United States</br>Canada | 🔒 | Oct 23 |
 | RTX | Software Engineer Co-op 🇺🇸 | Remote in USA | 🔒 | Oct 22 |
 | Ivalua | Marketing Web Developer Intern | New York, NY | 🔒 | Oct 22 |
+| 1Password | Developer Intern, Front-End Platform | Remote in USA | 🔒 | Oct 22 |
+| ↳ | Developer Intern, Extension Excellence | Remote in USA | 🔒 | Oct 22 |
+| ↳ | Developer Intern, Provisioning | Remote in USA | 🔒 | Oct 22 |
+| ↳ | Developer Intern, Data Security | Remote</br>United States</br>Canada | 🔒 | Oct 22 |
+| ↳ | Developer Intern, Machine Identity | Remote</br>United States</br>Canada | 🔒 | Oct 22 |
+| ↳ | Developer Intern, Vault Team | Remote</br>United States</br>Canada | 🔒 | Oct 22 |
 | Tessera Labs | Full Stack Software Engineer Intern | <details><summary>**4 locations**</summary>San Jose, CA</br>Remote</br>United States</br>New York, NY</details> | 🔒 | Oct 14 |
 | Point72 | Quantitative Developer Intern | New York, NY | 🔒 | Aug 21 |
 | Figma | Software Engineer Intern | San Francisco, CA</br>New York, NY | 🔒 | Aug 21 |

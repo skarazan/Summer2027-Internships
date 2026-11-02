@@ -671,13 +671,13 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1792697714,
+    "date_updated": 1793626779,
     "url": "https://go.vansh.nyc/eA",
     "locations": [
       "Remote in USA"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "1Password",
     "title": "Developer Intern, Front-End Platform",
     "source": "vanshb03",
@@ -688,13 +688,13 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1792697714,
+    "date_updated": 1793626779,
     "url": "https://go.vansh.nyc/eC",
     "locations": [
       "Remote in USA"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "1Password",
     "title": "Developer Intern, Extension Excellence",
     "source": "vanshb03",
@@ -705,13 +705,13 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1792697714,
+    "date_updated": 1793626779,
     "url": "https://go.vansh.nyc/eH",
     "locations": [
       "Remote in USA"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "1Password",
     "title": "Developer Intern, Provisioning",
     "source": "vanshb03",
@@ -739,7 +739,7 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1792717232,
+    "date_updated": 1793626779,
     "url": "https://go.vansh.nyc/eY",
     "locations": [
       "Remote",
@@ -747,7 +747,7 @@
       "Canada"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "1Password",
     "title": "Developer Intern, Data Security",
     "source": "vanshb03",
@@ -758,7 +758,7 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1792717232,
+    "date_updated": 1793626779,
     "url": "https://go.vansh.nyc/eZ",
     "locations": [
       "Remote",
@@ -766,7 +766,7 @@
       "Canada"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "1Password",
     "title": "Developer Intern, Machine Identity",
     "source": "vanshb03",
@@ -777,7 +777,7 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1792717232,
+    "date_updated": 1793626779,
     "url": "https://go.vansh.nyc/f0",
     "locations": [
       "Remote",
@@ -785,7 +785,7 @@
       "Canada"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "1Password",
     "title": "Developer Intern, Vault Team",
     "source": "vanshb03",
@@ -815,7 +815,7 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1792775105,
+    "date_updated": 1793626779,
     "url": "https://go.vansh.nyc/gS",
     "locations": [
       "Remote",
@@ -823,7 +823,7 @@
       "Canada"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "1Password",
     "title": "Developer Intern, Developer Interfaces",
     "source": "vanshb03",
@@ -834,7 +834,7 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1792775105,
+    "date_updated": 1793626779,
     "url": "https://go.vansh.nyc/gT",
     "locations": [
       "Remote",
@@ -842,7 +842,7 @@
       "Canada"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "1Password",
     "title": "Developer Intern, Credential Brokering",
     "source": "vanshb03",
@@ -1035,7 +1035,7 @@
   },
   {
     "date_updated": 1793554900,
-    "url": "https://www.google.com/about/careers/applications/jobs/results/131518356678156998",
+    "url": "https://go.vansh.nyc/18X",
     "locations": [
       "Mountain View, CA",
       "Ann Arbor, MI",
@@ -1070,6 +1070,24 @@
     "source": "vanshb03",
     "id": "e79e5500-4a5a-4840-8758-8ae81ebf099d",
     "date_posted": 1789391902,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1793633723,
+    "url": "https://go.vansh.nyc/19l",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "GE Aerospace",
+    "title": "Artificial Intelligence Intern",
+    "source": "vanshb03",
+    "id": "40b2be74-768f-4e16-8a3a-a3c7c3e340b2",
+    "date_posted": 1793577600,
     "company_url": "",
     "is_visible": true,
     "season": "Winter"
