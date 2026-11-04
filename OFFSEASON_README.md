@@ -45,11 +45,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ciena | Software Developer Co-op | Quebec, Canada</br>Remote</br>Canada | <a href="https://go.vansh.nyc/1fg?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | GE Aerospace | Artificial Intelligence Intern | Remote</br>United States | <a href="https://go.vansh.nyc/19l?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | Solink | Software Engineer Co-op, Agents | Remote</br>Canada | <a href="https://go.vansh.nyc/13K?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Genius AI | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/108?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Notion | Software Engineer Intern, Mobile | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/BF?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
-| ↳ | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/BE?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | 1Password | Product Management Intern, End User Experience | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/gR?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | 1Password | Security Intern, Threat Operations | Remote in USA | <a href="https://go.vansh.nyc/eI?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Manhattan Associates | A.I. Developer Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/CZ?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
@@ -58,6 +58,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Susquehanna International Group | Technology Co-op | Remote (US) | <a href="https://go.vansh.nyc/9A?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Point72 | Data Research Fellowship | New York, NY | <a href="https://go.vansh.nyc/8m?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | Judi Health | Data Engineer Intern | New York, NY</br>Denver, CO | <a href="https://go.vansh.nyc/Fw?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| Plot Technologies | Applied AI Co-op | New York, NY | <a href="https://go.vansh.nyc/1eP?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Risepoint | Analytics Engineering Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/DV?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Google | Student Researcher Intern | <details><summary>**25 locations**</summary>Mountain View, CA</br>Ann Arbor, MI</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Chicago, IL</br>Houston, TX</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Princeton, NJ</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Sunnyvale, CA</br>Washington, DC</details> | <a href="https://go.vansh.nyc/18X?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | Verition Fund Management LLC | Software Engineer Intern | Remote | <a href="https://go.vansh.nyc/7e?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
@@ -70,8 +71,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Forward Deployed Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/4g?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | PathAI | Machine Learning Intern, AI Product and ML Core | Boston, MA</br>New York, NY</br>Remote | <a href="https://go.vansh.nyc/1A?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
-| Tesla | Automation Development & Tooling Engineer Intern | Brooklyn Park, MN</br>Elgin, IL</br>Grand Rapids, MI | <a href="https://go.vansh.nyc/o?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | 🔒 | Oct 26 |
+| Notion | Software Engineer Intern | San Francisco, CA</br>New York, NY | 🔒 | Oct 25 |
 | 1Password | Developer Intern, Developer Interfaces | Remote</br>United States</br>Canada | 🔒 | Oct 23 |
 | ↳ | Developer Intern, Credential Brokering | Remote</br>United States</br>Canada | 🔒 | Oct 23 |
 | RTX | Software Engineer Co-op 🇺🇸 | Remote in USA | 🔒 | Oct 22 |
@@ -100,6 +101,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Notion | Software Engineer Intern | San Francisco, CA</br>New York, NY | 🔒 | Aug 09 |
 | ↳ | Software Engineer Intern, Mobile | San Francisco, CA</br>New York, NY | 🔒 | Aug 09 |
 | Notion | Software Engineer, AI Intern | San Francisco, CA</br>New York, NY | 🔒 | Aug 08 |
+| Tesla | Automation Development & Tooling Engineer Intern | Brooklyn Park, MN</br>Elgin, IL</br>Grand Rapids, MI | 🔒 | Aug 02 |
 | Five Rings | Software Developer Intern | New York, NY | 🔒 | Jul 16 |
 | Rippling | Frontend Software Engineer Intern | New York, NY</br>San Francisco, CA | 🔒 | Jun 06 |
 | ↳ | Software Engineer Intern | New York, NY</br>San Francisco, CA | 🔒 | Jun 06 |

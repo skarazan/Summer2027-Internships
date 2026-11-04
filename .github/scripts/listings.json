@@ -53,7 +53,7 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1754199929,
+    "date_updated": 1793660003,
     "url": "https://go.vansh.nyc/o",
     "locations": [
       "Brooklyn Park, MN",
@@ -61,7 +61,7 @@
       "Grand Rapids, MI"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "Tesla",
     "title": "Automation Development & Tooling Engineer Intern",
     "source": "vanshb03",
@@ -870,14 +870,14 @@
     "season": "Fall"
   },
   {
-    "date_updated": 1792917843,
+    "date_updated": 1793720438,
     "url": "https://go.vansh.nyc/BE",
     "locations": [
       "San Francisco, CA",
       "New York, NY"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "Notion",
     "title": "Software Engineer Intern",
     "season": "Winter",
@@ -1088,6 +1088,42 @@
     "source": "vanshb03",
     "id": "40b2be74-768f-4e16-8a3a-a3c7c3e340b2",
     "date_posted": 1793577600,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1793743743,
+    "url": "https://go.vansh.nyc/1eP",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Plot Technologies",
+    "title": "Applied AI Co-op",
+    "source": "vanshb03",
+    "id": "7adaed79-173a-486c-88ac-fd64cad04f8a",
+    "date_posted": 1790690299,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1793745535,
+    "url": "https://go.vansh.nyc/1fg",
+    "locations": [
+      "Quebec, Canada",
+      "Remote",
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Ciena",
+    "title": "Software Developer Co-op",
+    "source": "vanshb03",
+    "id": "619169fe-919e-4754-94e6-eaa664d7d8c9",
+    "date_posted": 1793745398,
     "company_url": "",
     "is_visible": true,
     "season": "Winter"
