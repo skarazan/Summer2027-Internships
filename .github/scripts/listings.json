@@ -1127,5 +1127,23 @@
     "company_url": "",
     "is_visible": true,
     "season": "Winter"
+  },
+  {
+    "date_updated": 1793847950,
+    "url": "https://go.vansh.nyc/1hA",
+    "locations": [
+      "Remote",
+      "Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "DataVisor",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "264b389d-8cd6-4100-80ab-b2e5fbfbac90",
+    "date_posted": 1793846395,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
   }
 ]
