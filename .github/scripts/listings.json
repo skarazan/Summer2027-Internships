@@ -1145,5 +1145,23 @@
     "company_url": "",
     "is_visible": true,
     "season": "Winter"
+  },
+  {
+    "date_updated": 1794071313,
+    "url": "https://go.vansh.nyc/1mb",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Kinaxis",
+    "title": "Developer Co-op, Machine Learning",
+    "source": "vanshb03",
+    "id": "cac1ab40-c4c3-4bd0-bdaa-b2463771447f",
+    "date_posted": 1794071215,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
   }
 ]

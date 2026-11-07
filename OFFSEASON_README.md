@@ -45,6 +45,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Kinaxis | Developer Co-op, Machine Learning | Remote</br>United States | <a href="https://go.vansh.nyc/1mb?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | DataVisor | Software Engineer Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/1hA?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Ciena | Software Developer Co-op | Quebec, Canada</br>Remote</br>Canada | <a href="https://go.vansh.nyc/1fg?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | GE Aerospace | Artificial Intelligence Intern | Remote</br>United States | <a href="https://go.vansh.nyc/19l?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
