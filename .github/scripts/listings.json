@@ -1163,5 +1163,22 @@
     "company_url": "",
     "is_visible": true,
     "season": "Winter"
+  },
+  {
+    "date_updated": 1794157597,
+    "url": "https://go.vansh.nyc/1mY",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "ACLU Kentucky",
+    "title": "Undergraduate Software Engineer Intern, Technology and Analytics (Educate Pod)",
+    "source": "vanshb03",
+    "id": "7a973823-2752-458d-ab30-14773b10fe25",
+    "date_posted": 1793129801,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
   }
 ]
