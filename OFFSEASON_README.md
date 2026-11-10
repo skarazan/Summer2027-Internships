@@ -45,8 +45,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zingage | Software Engineer Co-op | New York, NY | <a href="https://go.vansh.nyc/1rB?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Tonic | Forward Deployed Engineer Co-op, Data De-Identification | Remote</br>United States | <a href="https://go.vansh.nyc/1po?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
-| Kinaxis | Developer Co-op, Machine Learning | Remote</br>United States | <a href="https://go.vansh.nyc/1mb?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | DataVisor | Software Engineer Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/1hA?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Ciena | Software Developer Co-op | Quebec, Canada</br>Remote</br>Canada | <a href="https://go.vansh.nyc/1fg?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | GE Aerospace | Artificial Intelligence Intern | Remote</br>United States | <a href="https://go.vansh.nyc/19l?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -74,6 +74,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, Defense Tech | New York, NY | <a href="https://go.vansh.nyc/4p?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Forward Deployed Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/4g?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| Kinaxis | Developer Co-op, Machine Learning | Remote</br>United States | 🔒 | Nov 07 |
 | RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | 🔒 | Oct 26 |
 | Notion | Software Engineer Intern | San Francisco, CA</br>New York, NY | 🔒 | Oct 25 |
 | 1Password | Developer Intern, Developer Interfaces | Remote</br>United States</br>Canada | 🔒 | Oct 23 |

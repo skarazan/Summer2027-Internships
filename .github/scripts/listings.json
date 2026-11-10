@@ -1147,14 +1147,14 @@
     "season": "Winter"
   },
   {
-    "date_updated": 1794071313,
+    "date_updated": 1794330649,
     "url": "https://go.vansh.nyc/1mb",
     "locations": [
       "Remote",
       "United States"
     ],
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "company_name": "Kinaxis",
     "title": "Developer Co-op, Machine Learning",
     "source": "vanshb03",
@@ -1195,6 +1195,23 @@
     "source": "vanshb03",
     "id": "bdb0738e-89fe-4c74-ae89-a3e6f40077e8",
     "date_posted": 1794182400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter"
+  },
+  {
+    "date_updated": 1794330527,
+    "url": "https://go.vansh.nyc/1rB",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Zingage",
+    "title": "Software Engineer Co-op",
+    "source": "vanshb03",
+    "id": "7ebac9e0-cc01-40a4-aac5-b80050fd79ec",
+    "date_posted": 1794330395,
     "company_url": "",
     "is_visible": true,
     "season": "Winter"
